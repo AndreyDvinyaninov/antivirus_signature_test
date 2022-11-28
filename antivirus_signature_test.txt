@@ -1,0 +1,105 @@
+
+  In winter, I tested virustotal :
+
+<a href="https://www.virustotal.com/gui/home/upload" target="_blank">
+ - virustotal.com online
+ </a>
+ <br>
+ Some antiviruses are bad. Some antiviruses find viruses in pure program.
+ Tested at KL4 ( strannnik ) modified.
+ 
+   
+ Program _bkup.exe maked by kl4.  
+ 12 security vendors and no sandboxes flagged this file as malicious
+ 
+ Antiviruses that detect viruses ( 12 . 62 ) : 
+ 
+  Alibaba               Trojan:Win32/PackBackdoor.0fb79694
+  Antiy-AVL             Trojan/Win32.PossibleThreat
+  Avira (no cloud)      TR/Crypt.XPACK.Gen
+  BitDefenderTheta      Gen:NN.ZexaF.34796.fuW@aaZxgjj
+  Bkav Pro              W32.AIDetect.malware1
+  CrowdStrike Falcon    Win/malicious_confidence_60% (D)
+  Cynet                 Malicious (score: 100)
+  Elastic               Malicious (high Confidence)
+  Malwarebytes          Malware.Heuristic.1008
+  Rising                Trojan.Generic@AI.86 (RDMK:cmRtazqAcaXhGgzPn+QFnyBFHIcS)
+  SecureAge             Malicious
+  Trapmine              Malicious.moderate.ml.score
+  
+  some antiviruses - timeout or not file type.
+
+   
+ 
+ Program _bkup.exe maked by kl4 and pressing by MPRESS.  
+ 
+ 41 security vendors and no sandboxes flagged this file as malicious
+ Antiviruses that detect viruses ( 41 / 71 ) : 
+ 
+  Ad-Aware              Gen:Variant.Barys.57542
+  Alibaba               Trojan:Application/EmotetAE.88e4d4cf
+  ALYac                 Gen:Variant.Barys.57542
+  Arcabit               Trojan.Barys.DE0C6
+  Avira (no cloud)      TR/Crypt.ZPACK.Gen
+  BitDefender           Gen:Variant.Barys.57542
+  BitDefenderTheta      Gen:NN.ZexaF.34754.amqaa8eNalp
+  Bkav Pro              W32.AIDetect.malware1
+  CrowdStrike Falcon    Win/malicious_confidence_100% (D)
+  Cybereason            Malicious.3659c7
+  Cylance               Unsafe
+  Cynet                 Malicious (score: 100)
+  Elastic               Malicious (high Confidence)
+  Emsisoft              Gen:Variant.Barys.57542 (B)
+  eScan                 Gen:Variant.Barys.57542
+  F-Secure              Trojan.TR/Crypt.ZPACK.Gen
+  Fortinet              W32/PossibleThreat
+  GData                 Gen:Variant.Barys.57542
+  Google                Detected
+  Gridinsoft (no cloud) Ransom.Win32.Zbot.sa
+  Ikarus                Generic.EmotetAE
+  K7AntiVirus           Trojan ( 0052964f1 )
+  K7GW                  Trojan ( 0052964f1 )
+  Kingsoft              Win32.Heur.KVMH008.a.(kcloud)
+  Malwarebytes          Malware.Heuristic.1003
+  MAX                   Malware (ai Score=80)
+  MaxSecure             Trojan.Malware.300983.susgen
+  McAfee                Artemis!3317E463659C
+  McAfee-GW-Edition     BehavesLike.Win32.Generic.lc
+  Microsoft             Trojan:Win32/Wacatac.B!ml
+  Sangfor Engine Zero   Suspicious.Win32.Save.a
+  SecureAge             Malicious
+  SentinelOne (Static ML) Static AI - Suspicious PE
+  Sophos                Mal/Zbot-EU
+  Trapmine              Malicious.high.ml.score
+  Trellix (FireEye)     Generic.mg.3317e463659c7e8b
+  TrendMicro-HouseCall  TROJ_GEN.R002H09K522
+  VBA32                 Trojan.Tiggre
+  VIPRE                 Gen:Variant.Barys.57542
+  Yandex                Packed/MPress
+  Zoner                 Trojan.Win32.133812
+
+   5 antiviruses - timeout or not file type.
+
+   
+   
+   Program _kl4.exe ( modified strannik )
+   9 security vendors and no sandboxes flagged this file as malicious
+   Antiviruses that detect viruses ( 9 / 72 ) :
+   
+  Antiy-AVL             Trojan/Win32.Casur
+  Bkav Pro              W32.AIDetect.malware2
+  Elastic               Malicious (moderate Confidence)
+  Gridinsoft (no cloud) Ransom.Win32.Wacatac.sa
+  Malwarebytes          Malware.Heuristic.1008
+  MaxSecure             Trojan.Malware.300983.susgen
+  Microsoft             Trojan:Win32/Sabsik.FL.B!ml
+  SecureAge             Malicious
+  Trapmine              Suspicious.low.ml.score
+
+  4 antiviruses - not file type.
+
+
+  For using Strannik / KL4 compiler above some antiviruses are bad. 
+
+<br>
+
