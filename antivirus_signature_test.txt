@@ -1,6 +1,52 @@
 
   In winter, I tested virustotal :
 
+<!DOCTYPE html>
+<head>
+<meta http-equiv="content-type" content="text/html>
+</head>
+<body>
+<br>
+  
+<a href="https://www.virustotal.com/gui/home/upload" target="_blank">
+ - virustotal.com online  
+ </a>
+<br> 
+
+</body>
+</html>
+
+  =================================================================
+  
+  Result list with bad signature antiviruses 
+  and require option to while list add   
+  
+  360 Total Security
+  Alibaba              
+  Antiy-AVL            
+  Avira (no cloud)      
+  BitDefenderTheta     
+  Bkav Pro              
+  CrowdStrike Falcon 
+  Cylance    
+  Cynet                
+  Elastic 
+  F-Secure  
+  Gridinsoft (no cloud)              
+  Malwarebytes 
+  MaxSecure 
+  Microsoft       
+  Rising               
+  SecureAge 
+  Symantec          
+  Trapmine 
+  Trellix (FireEye)  
+
+
+  For using Strannik / KL4 compiler above antiviruses are bad.
+
+  =====================================================================  
+
 <a href="https://www.virustotal.com/gui/home/upload" target="_blank">
  - virustotal.com online
  </a>
@@ -12,7 +58,7 @@
  Program _bkup.exe maked by kl4.  
  12 security vendors and no sandboxes flagged this file as malicious
  
- Antiviruses that detect viruses ( 12 . 62 ) : 
+ Antiviruses that detect viruses ( 12 / 62 ) : 
  
   Alibaba               Trojan:Win32/PackBackdoor.0fb79694
   Antiy-AVL             Trojan/Win32.PossibleThreat
@@ -78,7 +124,12 @@
   Yandex                Packed/MPress
   Zoner                 Trojan.Win32.133812
 
-   5 antiviruses - timeout or not file type.
+    5 antiviruses - timeout or not file type.
+   
+   
+  Free version  360 Total Security detect  
+                        Win32/Troan.Generic.HxIBGigA
+  Require add program _bkup.exe to white list.                      
 
    
    
@@ -97,9 +148,84 @@
   Trapmine              Suspicious.low.ml.score
 
   4 antiviruses - not file type.
+  
+  
+  Program HTMI.EXE, made by KL4.
+  Antiviruses that detect viruses ( 9 / 72 ) :
+  
+  Alibaba               Trojan:Win32/PackBackdoor.bb280ee1
+  Avira (no cloud)      TR/Crypt.XPACK.Gen
+  BitDefenderTheta      Gen:NN.ZexaE.34796.fuW@aWfAEwd
+  CrowdStrike Falcon    Win/malicious_confidence_60% (D)
+  Cynet                 Malicious (score: 100)
+  Elastic               Malicious (high Confidence)
+  Malwarebytes          Malware.Heuristic.1008
+  Rising                Trojan.Generic@AI.85 (RDMK:cmRtazoJwivJeUpBYF1ubYI6t5Mn)
+  SecureAge             Malicious
+  Trapmine              Malicious.moderate.ml.score
+  
+  
+  Program _SIEVE.EXE, made by KL4.
+  Virustotal 
+  2022-12-11 12:46:22 UTC
+  14/70
+  
+  Avira (no cloud)          TR/Crypt.XPACK.Gen
+  BitDefenderTheta          Gen:NN.ZexaF.36106.fuW@aucCdz
+  Bkav Pro                  W32.AIDetect.malware1
+  CrowdStrike Falcon        Win/malicious_confidence_70% (D)
+  Cylance                   Unsafe
+  Cynet                     Malicious (score: 100)
+  Elastic                   Malicious (high Confidence)
+  Malwarebytes              Malware.Heuristic.1008
+  Microsoft                 Trojan:Win32/Wacatac.B!ml
+  Rising                    Trojan.Generic@AI.85 (RDMK:cmRtazoWInKhmpQtelYpb+xYcGdI)
+  SecureAge                 Malicious
+  Symantec                  ML.Attribute.HighConfidence
+  Trapmine                  Malicious.moderate.ml.score
+  Trellix (FireEye)         Generic.mg.c0ee8d8be6c86407 
+  
+ 
+  Program _seoz_len_time.exe, made by KL4.
+  Virustotal 
+  2022-12-11 14:04:23 UTC
+  14/71 
+      
+  Avira (no cloud)          TR/Crypt.XPACK.Gen
+  BitDefenderTheta          Gen:NN.ZexaF.36106.euW@am1SOJk
+  Bkav Pro                  W32.AIDetect.malware1
+  Cylance                   Unsafe
+  Cynet                     Malicious (score: 100)
+  Elastic                   Malicious (high Confidence)
+  F-Secure                  Trojan.TR/Crypt.XPACK.Gen
+  Malwarebytes              Malware.Heuristic.1008
+  MaxSecure                 Trojan.Malware.300983.susgen
+  Rising                    Trojan.Generic@AI.85 (RDMK:cmRtazpok/Z94nbzxCs7rJeb/DJh)
+  SecureAge                 Malicious
+  Symantec                  ML.Attribute.HighConfidence
+  Trapmine                  Malicious.moderate.ml.score
+  Trellix (FireEye)         Generic.mg.140ff9668767aa2a
+  
+  Program _vaxpop.exe, made by KL4.
+  Virustotal  
+  2022-12-11 14:19:32 UTC
+  14/72
+  
+  Avira (no cloud)          TR/Crypt.XPACK.Gen
+  BitDefenderTheta          Gen:NN.ZexaF.36106.fuW@ayjPz@n
+  Bkav Pro                  W32.AIDetect.malware1
+  CrowdStrike Falcon        Win/malicious_confidence_60% (D)
+  Cylance                   Unsafe
+  Cynet                     Malicious (score: 100)
+  Elastic                   Malicious (high Confidence)
+  F-Secure                  Trojan.TR/Crypt.XPACK.Gen
+  Malwarebytes              Malware.Heuristic.1008
+  Rising                    Trojan.Generic@AI.83 (RDMK:cmRtazrFFVKeCwL86GaDxnqSzLJm)
+  SecureAge                 Malicious
+  Symantec                  ML.Attribute.HighConfidence
+  Trapmine                  Malicious.moderate.ml.score
+  Trellix (FireEye)         Generic.mg.809438b58be064a1
 
-
-  For using Strannik / KL4 compiler above some antiviruses are bad. 
 
 <br>
 
